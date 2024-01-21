@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Paris",
+        "description": "The City of Light, known for its art, fashion, and culture.",
+        "hotel_prices": "$50 - $300 per night",
+        "flight_prices": "$500 - $2000"
+    },
+    {
+        "name": "Tokyo",
+        "description": "A vibrant metropolis blending modern and traditional elements.",
+        "hotel_prices": "$50 - $250 per night",
+        "flight_prices": "$600 - $2500"
+    },
+    {
+        "name": "New York City",
+        "description": "The city that never sleeps, with iconic landmarks and diverse neighborhoods.",
+        "hotel_prices": "$80 - $400 per night",
+        "flight_prices": "$400 - $1500"
+    },
+    {
+        "name": "Sydney",
+        "description": "A stunning harbor city with a mix of beaches and cultural attractions.",
+        "hotel_prices": "$70 - $300 per night",
+        "flight_prices": "$800 - $2500"
+    },
+    {
+        "name": "Mumbai",
+        "description": "The financial and entertainment capital of India.",
+        "hotel_prices": "INR 3000 - INR 12000 per night",
+        "flight_prices": "INR 15000 - INR 50000"
+    },
+    {
+        "name": "Jaipur",
+        "description": "The Pink City, known for its rich history and vibrant culture.",
+        "hotel_prices": "INR 2000 - INR 8000 per night",
+        "flight_prices": "INR 10000 - INR 30000"
+    },
+    {
+        "name": "Cairo",
+        "description": "The capital of Egypt, home to ancient pyramids and historic landmarks.",
+        "hotel_prices": "$40 - $150 per night",
+        "flight_prices": "$400 - $1500"
+    }
+]
